@@ -1,0 +1,4 @@
+html { height: 100% }
+body { height: 100%; margin: 0px; padding: 0px; }
+#map_canvas { height:100%; margin-left:300px; }
+#side_panel { position:absolute; width:280px; height: 100%; overflow:auto; float:left; padding-left:10px; padding-right:10px; }
